@@ -1,3 +1,2 @@
 # Demonstration-of-NAT-and-proxy-server
-In this working of Network Address Translation and rotation IP address using proxies is demonstrated.
-Language Used: Python
+Network Address Translation (NAT) is the process that modifies the IP address in a header of an IP packet, while it is travelling through a routing device. NAT allows one set of IP addresses to be used for traffic within a LAN (Local Area Network) and another set of IP addresses for outside traffic. One to one transformation of IP addresses are provided by the simplest form of NAT. Proxy Server is a server that is located between a client (who is looking for a resource) and some other server and acts as a mediator. The client requesting the resource connects to the proxy server and the proxy evaluates the request based on its filtering rules.
